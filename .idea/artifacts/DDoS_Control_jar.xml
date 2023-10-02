@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DDoS_Control:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DDoS_Control_jar</output-path>
+    <root id="archive" name="DDoS_Control.jar">
+      <element id="module-output" name="DDoS_Control" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/snakeyaml-1.30.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
