@@ -1,1 +1,2 @@
-{port: '22', endDate: 'Tue Oct 03 00:50:57 CST 2023', ip: 127.0.0.1}
+{targetIp: 192.168.1.1, attackType: udp, URLheader: null, endAt: 'Tue Oct 03 20:03:10
+    CST 2023', targetURL: null, targetPort: '80'}
